@@ -1,6 +1,10 @@
 # CliffWalking
-My implementation of the cliff walking problem using SARSA and Q-Learning policies.
+My implementation of the cliff walking problem using SARSA and Q-Learning policies. 
+From Sutton & Barto Reinforcement Learning book, reproducing results seen in fig 6.4
 
-# Required libs
-- Numpy
-- Pyplot
+## Installing mudules
+Numpy and matplotlib required
+```
+pip install numpy
+pip install matplotlib
+```
